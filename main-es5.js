@@ -5576,7 +5576,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
         _classCallCheck(this, ApiRestService);
 
         this.http = http;
-        this.urlapi = "http://localhost:3000/";
+        this.urlapi = "https://pets-co.herokuapp.com/";
       }
 
       _createClass(ApiRestService, [{
@@ -6566,7 +6566,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\wilso\Downloads\TesisLovePet-main\TesisLovePet-main\src\main.ts */
+    /*! D:\Users\Niggy\Desktop\Tesis\lovepet-master\src\main.ts */
     "./src/main.ts");
     /***/
   }

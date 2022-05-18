@@ -414,9 +414,9 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\wilso\Downloads\TesisLovePet-main\TesisLovePet-main\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
-__webpack_require__(/*! C:\Users\wilso\Downloads\TesisLovePet-main\TesisLovePet-main\src\styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! C:\Users\wilso\Downloads\TesisLovePet-main\TesisLovePet-main\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
+__webpack_require__(/*! D:\Users\Niggy\Desktop\Tesis\lovepet-master\node_modules\@angular\material\prebuilt-themes\indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
+__webpack_require__(/*! D:\Users\Niggy\Desktop\Tesis\lovepet-master\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\Users\Niggy\Desktop\Tesis\lovepet-master\node_modules\ngx-toastr\toastr.css */"./node_modules/ngx-toastr/toastr.css");
 
 
 /***/ })

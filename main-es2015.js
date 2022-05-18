@@ -2807,7 +2807,7 @@ __webpack_require__.r(__webpack_exports__);
 class ApiRestService {
     constructor(http) {
         this.http = http;
-        this.urlapi = "http://localhost:3000/";
+        this.urlapi = "https://pets-co.herokuapp.com/";
     }
     Post(action, json) {
         var url = this.urlapi + action;
@@ -3356,7 +3356,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_3__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\wilso\Downloads\TesisLovePet-main\TesisLovePet-main\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\Users\Niggy\Desktop\Tesis\lovepet-master\src\main.ts */"./src/main.ts");
 
 
 /***/ })
